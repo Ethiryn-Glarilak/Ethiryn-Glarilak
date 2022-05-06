@@ -5,4 +5,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethiryn-glarilak&count_private=true&show_icons=true&theme=dark&locale=fr" alt="ethiryn-glarilak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethiryn-glarilak&count_private=true&show_icons=true&theme=dark&locale=fr"/></p>
