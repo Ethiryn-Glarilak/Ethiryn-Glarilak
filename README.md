@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethiryn-glarilak&show_icons=true&theme=merko&count_private=true" alt="ethiryn-glarilak" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethiryn-glarilak&show_icons=true&theme=merko&locale=en&layout=compact" alt="ethiryn-glarilak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethiryn-glarilak&show_icons=true&theme=merko&count_private=true&locale=en&layout=compact" alt="ethiryn-glarilak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ethiryn-glarilak&theme=highcontrast" alt="ethiryn-glarilak" /></p>
 
