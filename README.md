@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethiryn</h1>
 <h3 align="center">A passionate developer student from France</h3>
 
-- 🔭 I’m currently working on [Bots-Discord](https://github.com/Ethiryn-Glarilak/Bots-Discord)
+- 🔭 I’m currently working on [JPEG](https://github.com/Ethiryn-Glarilak/JPEG)
 
 - 🌱 I’m currently learning **C and Python**
 
