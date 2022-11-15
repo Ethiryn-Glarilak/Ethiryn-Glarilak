@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Python**
 
-- 👯 I’m looking to collaborate on [JPEG](https://github.com/Ethiryn-Glarilak/JPEG)
+- 👯 I’m looking to collaborate on [HTTPd](https://github.com/Ethiryn-Glarilak)
 
 - 💬 Ask me about **Student of EPITA**
 
